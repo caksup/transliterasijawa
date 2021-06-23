@@ -11,7 +11,7 @@ Couple things to note
 * This is about Javanese script of Java, Indonesia
 * This is not about JavaScript or Java language (computer programming language)
 * This is not even about Javanese language in  Indonesia, as Javanese script were historically and still is used by various languages, Javanese, Madurese, Sundanese, Indonesian, heck,  you can even try to write English or Chinese (ask me about it)
-* This is a transliterator (id: mesin pengalihaksarsa)
+* This is a transliterator (id: mesin pengalihaksara)
 * This is not a translator (id: bukan mesin penerjemah)
 * I'm planning to continue the development of the transliterator more toward keyboards (see my keyman keyboards in https://bennylin.github.io)
 * * PS: 2020-21: I'm continuing the development of this transliterator for my pet projects.
